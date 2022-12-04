@@ -1,0 +1,5 @@
+/[Pp]rojects/*/*.exe
+/[Pp]rojects/*/*.obj
+/[Pp]rojects/*/*.crf
+/[Pp]rojects/*/*.lst
+/[Pp]rojects/*/*.map
